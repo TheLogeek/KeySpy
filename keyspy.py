@@ -29,7 +29,7 @@ print(f"""{y} [+] PROGRAM NAME: KEYSPY
 \n
  [+] CREATED BY SOLOMON ADENUGA
 \n
- [+] GITHUB : SoloTech01
+ [+] GITHUB : TheLogeek
 \n
  [+] VERSION: 1.0
 \n
