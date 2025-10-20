@@ -2,7 +2,7 @@
 
 **INSTALLATION**
 
-git clone https://github.com/SoloTech01/KeySpy.git
+git clone https://github.com/TheLogeek/KeySpy.git
 
 cd KeySpy
 
